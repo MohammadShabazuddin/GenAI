@@ -1,0 +1,7 @@
+langchain==0.2.11
+langchain-openai==0.1.20
+python-dotenv==1.0.1
+langchain-community==0.2.10
+pypdf
+langchain-chroma
+beautifulsoup4
