@@ -69,7 +69,7 @@ with col1:
         """)
 
 with col2:
-    st.write("Subscribe to [dswithbappy](https://www.youtube.com/@dswithbappy)")
+    st.write("Developed my Shabazuddin Mohammad")
 
 
 #Input OpenAI API Key
